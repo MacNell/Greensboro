@@ -1,0 +1,14 @@
+QT-P6
+Race Alone or in Combination and Hispanic or Latino: 2010
+
+NOTE: For information on confidentiality protection, nonsampling error, and definitions, see  http://www.census.gov/prod/cen2010/doc/sf1.pdf.
+
+ 
+X Not applicable.	   
+[1] The race concept "alone or in combination" includes people who reported a single race alone (e.g., Asian) and people who reported that race in combination with one or more of the other race groups (i.e., White, Black or African American, American Indian and Alaska Native, Native Hawaiian and Other Pacific Islander, and Some Other Race).  The "alone or in combination" concept, therefore, represents the maximum number of people who reported as that race group, either alone, or in combination with another race(s).  The sum of the six individual race "alone or in combination" categories may add to more than the total population because people who reported more than one race are tallied in each race category.	 
+
+
+Source: U.S. Census Bureau, 2010 Census.
+
+Summary File 1,Tables P5 and P7.
+
