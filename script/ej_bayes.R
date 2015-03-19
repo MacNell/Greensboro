@@ -47,7 +47,7 @@ calculate <- function(n0,n1,bayes) {
   tab
 }
 
-calculate(n0=greensboro$white,n1=greensboro$black,bayes=gb.bayes)
+
 
 
 
